@@ -7,6 +7,11 @@ MedVault is a front-end web application designed to help individuals and healthc
 This project was initially built during a Design Thinking Workshop at my college. Since then, I’ve made improvements and deployed it live using Vercel.
 
 🔗 Live Demo: https://medvault-lyart.vercel.app
+id - admin@hospital.com
+password - password
+id - staff@hospital.com
+password - password
+id - 
 
 🧠 Key Features
 Upload and view medical reports securely.
